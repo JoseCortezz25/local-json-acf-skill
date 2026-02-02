@@ -14,7 +14,7 @@ This skill enables AI agents to:
 
 ## Installation
 
-### Claude Code / Cursor / Copilot
+### Claude Code / Cursor / Open Code
 
 ```bash
 npx skills add JoseCortezz25/local-json-acf-skill
